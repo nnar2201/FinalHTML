@@ -1,4 +1,22 @@
-h1 { 
+body { background-color: yellow;
+
+}
+
+h1 {
 text-align: center;
 font-family: Georgia;
+}
+
+p {
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: center;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-size: 18px;
+  font-weight: bold;
+}
+img {
+  border-radius: 50px
 }
