@@ -1,0 +1,35 @@
+#Torne {
+  border-collapse: collapse;
+  width: 100%
+  }
+#Torne td, #Torne th {
+  border: 10px solid yellow;
+  padding: 10px;
+}
+#Torne th {
+  padding-top: 8px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: purple;
+  color: yellow;
+}
+h1{
+  text-align: center;
+  color: yellow;
+
+}
+p{
+  text-align: center;
+  font-family: courier prime;
+  color: yellow;
+}
+div{
+  margin-top: 50px;
+}
+h2{
+  text-align: center;
+  color: yellow;
+}
+body{
+  background-color: green;
+}

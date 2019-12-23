@@ -1,0 +1,26 @@
+#Injuries {
+  border-collapse: collapse;
+  width: 100%
+  }
+#Injuries td, #Injuries th {
+  border: 12px solid blue;
+  padding: 12px;
+}
+#Injuries th {
+  padding-top: 16px;
+  padding-bottom: 8px;
+  text-align: left;
+  background-color: green;
+  color: pink;
+}
+h1{
+  text-align: center;
+
+}
+p{
+  text-align: center;
+  font-family: Nothing You Could Do;
+}
+div{
+  margin-top: 50px;
+}

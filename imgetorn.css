@@ -2,7 +2,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 250px;
 }
 
 div.gallery:hover {
@@ -18,10 +18,10 @@ div.horsee {
   padding: 15px;
   text-align: center;
   position: static;
-  border: 14px solid #73AD21;
+  border: 25px solid red;
 }
 body{
-  background-color: #ADD8E6;
+  background-color: purple;
 }
 h3{
   text-align: center;
@@ -29,5 +29,12 @@ h3{
 p{
 text-align: center;
 font-size: 34px;
-font-family: Nothing You Could Do;
 }
+#Nav {
+margin-top: 20px;
+background-color: #000000;
+color: white;
+font-size: 40px;
+font-family: "Calibri";
+text-align: center;
+    }
