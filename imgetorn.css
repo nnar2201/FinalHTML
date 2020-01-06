@@ -21,7 +21,8 @@ div.horsee {
   border: 25px solid red;
 }
 body{
-  background-color: purple;
+  background-color: green;
+  font-family:Ma Shan Zheng; 
 }
 h3{
   text-align: center;
@@ -35,6 +36,5 @@ margin-top: 20px;
 background-color: #000000;
 color: white;
 font-size: 40px;
-font-family: "Calibri";
 text-align: center;
     }
