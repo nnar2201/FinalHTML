@@ -12,8 +12,8 @@ header {
 }
 
 ul {
-  margin: 30px auto;
-  padding: 0 20px;
+  margin: 15px auto;
+  padding: 0 10px;
   text-align: center;
 }
 
@@ -21,10 +21,10 @@ li {
   color: #FFF;
   font-family: 'Oswald', sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 200;
   text-transform: uppercase;
   display: inline-block;
-  width: 80px;
+  width: 400px;
 }
 
 li:hover {
