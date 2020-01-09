@@ -1,13 +1,23 @@
-form {
-margin: auto;
-width:250px;
+body 
+{
+  background-color: lightblue
 }
-h1{
-  text-align: center;
-}
+
+
 body {
-  background-image: url("https://b.rgbimg.com/users/b/ba/ba1969/600/mNYz2QG.jpg");
+background:
+  border-bottom: 5px solid #466995;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  
 }
-label {
-  text-decoration-color: yellow;
+
+h1 {
+ font-family: "Comic Sans MS", cursive, sans-serif;
+  border: 2px dashed #1C7EA4;
 }
+
+ Section {
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   color: #FF1B48;
