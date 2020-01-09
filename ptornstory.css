@@ -1,3 +1,10 @@
+body
+{
+background-color:LightBlue
+}
+
+
+
 #Injuries {
   border-collapse: collapse;
   width: 100%
@@ -24,3 +31,27 @@ p{
 div{
   margin-top: 50px;
 }
+
+h1 {
+font-family: Georgia, serif;
+font-size: 16px;
+ font-weight: 700;
+word-spacing: 1 px;
+color: #318435;
+letter-spacing: 2px;
+  
+}
+
+p {
+  font-family: Impact, Charcoal, sans-serif;
+  
+color: #318435;
+  font-weight: 700;
+  
+}
+
+h2 {
+  
+  text-align: center
+  text-decoration: underline rgb(68, 68, 68);
+  color: #318435;
