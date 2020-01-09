@@ -24,3 +24,17 @@ p{
 div{
   margin-top: 50px;
 }
+
+{
+  background-color: lightblue
+}
+
+
+body {
+background:
+  border-bottom: 5px solid #466995;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+
+}
