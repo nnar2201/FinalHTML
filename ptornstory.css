@@ -1,3 +1,10 @@
+body
+{
+background-color:LightBlue
+}
+
+
+
 #Injuries {
   border-collapse: collapse;
   width: 100%
@@ -13,28 +20,31 @@
   background-color: green;
   color: pink;
 }
-h1{
-  text-align: center;
 
-}
-p{
-  text-align: center;
-  font-family: Nothing You Could Do;
-}
 div{
   margin-top: 50px;
 }
 
-{
-  background-color: lightblue
-}
-
-
-body {
-background:
-  border-bottom: 5px solid #466995;
-  position: fixed;
-  width: 100%;
-  text-align: center;
+h1 {
+font-family: Georgia, serif;
+font-size: 16px;
+ font-weight: 700;
+word-spacing: 1 px;
+color: #318435;
+letter-spacing: 2px;
 
 }
+
+p {
+  font-family: Impact, Charcoal, sans-serif;
+
+color: #318435;
+  font-weight: 700;
+
+}
+
+h2 {
+
+  text-align: center
+  text-decoration: underline rgb(68, 68, 68);
+  color: #318435;
