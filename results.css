@@ -4,8 +4,8 @@ body {
 }
 
 header {
-  background-color: #466995;
-  border-bottom: 5px solid #466995;
+  background-color: #FE8C28;
+  border-bottom: 5px solid #BA4C03;
   position: fixed;
   width: 100%;
   z-index: 10;
@@ -48,7 +48,7 @@ h2 {
 }
 
 h3 {
-  color: #466995;
+  color: #F08035;
   font-family: 'Oswald', sans-serif;
   font-size: 18px;
   text-align: center;
@@ -58,7 +58,7 @@ h3 {
 }
 
 h4 {
-  color: #466995;
+  color: #F08035;
   font-family: 'Oswald', sans-serif;
   font-size: 18px;
   font-weight: 300;
@@ -80,7 +80,7 @@ footer {
 }
 
 .bummer {
-  background-color: #DBE9EE;
+  background-color: #BA4C03;
   box-sizing: border-box;
   padding: 40px;
   text-align: center;
@@ -96,12 +96,12 @@ footer {
 }
 
 .megafail {
-  border: 1px solid #466995;
+  border: 1px solid #BA4C03;
   margin: 20px;
   display: inline-block;
 }
 
 .megafail:hover {
-  background: #C0D6DF;
+  background: #BA4C03;
   color: #FFF;
 }
