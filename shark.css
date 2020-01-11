@@ -73,6 +73,6 @@ button{
 
 .me:hover:before{
 	right: 50px;
-	opacity: 1;
+	opacity: .5;
 	visibility: visible
 }
