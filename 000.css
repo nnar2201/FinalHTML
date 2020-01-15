@@ -1,0 +1,26 @@
+body {
+  background-color: Darkred;
+}
+
+h1 {
+  text-shadow: 2px 2px 2px #1C6EA4;
+  font-family: Georgia, serif;
+font-size: 18px;
+color: lightblue;
+}
+
+p {
+    font-family: Georgia, serif;
+font-size: 16px;
+color: lightblue;
+}
+
+h2 {
+  font-size: 16px;
+color: lightblue;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
